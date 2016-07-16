@@ -19,11 +19,9 @@ published: true
 
 ## Petits traits de caractères 
 
-===> _**Coming soon with a little bit of Exaptation**_
-
 Natural born explorer autour des pratiques collaboratives et des humanités, Large Human Collider, Hacktivist, multi entrepreneur startupper, consultant en innovation de l’économie circulaire Autodidacte des internets et du numérique, Open source jardinier & Open knowledge cultivateur.
 
-Ex pompier professionnel à Marseille et toujours au service des populations et de l’environnement mais dans une autre approche toujours humaniste. 
+Ex pompier professionnel à Marseille pendant 10 ans, encore au service des populations et de l’environnement mais dans une autre approche toujours humaniste. 
 
 Breton amoureux des océans et contemplateur concièrge de la biosphère
 
