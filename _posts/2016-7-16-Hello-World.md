@@ -1,5 +1,5 @@
 ---
-layout: "KN\tF¨ZOGN¨RGNAE¨GNAEBÄENB"
+layout: post
 title: Hello World
 published: true
 ---
