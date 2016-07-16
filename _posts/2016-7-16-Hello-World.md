@@ -8,7 +8,7 @@ published: true
 
 ...scroll
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/de/256-XX-dodecahedron.gif)![](https://upload.wikimedia.org/wikipedia/commons/3/31/Truncatedicosahedron.gif)![](https://upload.wikimedia.org/wikipedia/commons/0/08/Net_of_dodecahedron.gif)![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rhombicdodecahedron.gif/220px-Rhombicdodecahedron.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/3/31/Truncatedicosahedron.gif)![](https://upload.wikimedia.org/wikipedia/commons/0/08/Net_of_dodecahedron.gif)![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rhombicdodecahedron.gif/220px-Rhombicdodecahedron.gif)
 
 ## Where's my mind? 
 
