@@ -9,7 +9,14 @@ published: false
 La mutation en décalage de cadre (frameshift) terme indique l' ajout ou la suppression d'une paire de base .
 
 Un mutant de point est un individu qui est affecté par une mutation ponctuelle 
- 
+
+En 1998, Zygmunt Bauman lance sa métaphore de la « société liquide », concept pour lequel il opte afin de remplacer celui de postmodernité. La « société liquide » s’oppose à la « société solide » où les structures de l’organisation commune seraient créées collectivement. Dans la « société liquide », l’unique référence est l’individu intégré par son acte de consommation. Statut social, identité ou réussite ne sont définis qu’en termes de choix individuel et peuvent varier, fluctuer rapidement au gré des exigences de flexibilité. Il définit les relations sociales comme de plus en plus impalpables dans la société actuelle. Il prend l’exemple de l’amour ou du sentiment comme témoin de cet impalpabilité de relations fondées « jusqu’à nouvel ordre » : la société est liquide, parce que les liens permanents entre homme et femme sont devenus impossibles. 
+(texte extrait de wikipedia et la suite: ici)
+
+Zygmunt Bauman, né à Poznań en Pologne le 19 novembre 1925, est un sociologue possédant la double nationalité britannique et polonaise . Il est professeur émérite à l’Université de Leeds.
+
+Il est un des principaux représentants de l’École postmoderne.
+
  Extrait inspirant depuis David Larlet et Stéphane Langlois:
  
  >Cette volonté de ne pas choisir la facilité pour évoluer.
