@@ -15,7 +15,7 @@ Un mutant de point est un individu qui est affecté par une mutation ponctuelle
  >Cette volonté de ne pas choisir la facilité pour évoluer.
 Cette nécessité de s’adapter pour évoluer en milieu complexe, voire chaotique. Je retiendrai aussi ce proverbe modifié qui nous est venu naturellement lors des répétitions et qui est assez représentatif de ce que l’on expérimente avec scopyleft :
 
-    Tout seul on va plus vite, ensemble on va ailleurs.
+    Tout seul on va plus vite, ensemble on va ailleurs
 
 >Pas forcément plus loin. L’exploration de cet ailleurs est notre quête, c’est ce qui nous insuffle l’énergie pour accepter de réduire notre efficacité en empruntant d’autres chemins. Ensemble. Ce nouveau territoire est une autre planète où les lois physiques ne sont plus les mêmes, on ne change pas de façon de travailler mais
 on change la nature même du travail en mutation ainsi que le rapport avec nos pairs
@@ -30,9 +30,14 @@ on change la nature même du travail en mutation ainsi que le rapport avec nos p
 
 ![](http://66.media.tumblr.com/tumblr_maotxykV1i1rh9zqeo1_1280.gif)
 
+ « Ce n’est pas un signe de bonne santé que d’être bien adapté à une société profondément malade » — Krishnamurti
+
 
 ![](http://67.media.tumblr.com/d1d321db6f18107465112eee7a5aff4a/tumblr_njlm7cVOKE1r6t5muo1_1280.gif)
 
+La grandeur d’un métier est peut-être, avant tout, d’unir les hommes : il n’est qu’un luxe véritable, et c’est celui des relations humaines.
+(Terre des hommes, Antoine de Saint-Exupéry, 1939 )
+
 ### Contemplations
 
-![](http://www.research-information.admin.cam.ac.uk/files/cambridge_collaborations.gif)
+![](https://framapic.org/tt1e2LmuxA87/23JPZrHG4Gc9)
