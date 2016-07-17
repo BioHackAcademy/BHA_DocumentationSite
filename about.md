@@ -19,7 +19,7 @@ published: true
 
 Natural born explorer autour des pratiques collaboratives et des humanités, Large Human Collider, Hacktivist, multi entrepreneur startupper, consultant en innovation de l’économie circulaire Autodidacte des internets et du numérique, Open source jardinier & Open knowledge cultivateur.
 
-Ex pompier professionnel à Marseille pendant 10 ans, encore au service des populations et de l’environnement mais dans une autre approche toujours humaniste. 
+Ex abnégateur en tenue d'urgence sur 10 ans de vie, encore au service des populations et de l’environnement mais dans une autre approche toujours humaniste. 
 
 Breton amoureux des océans et contemplateur concièrge de la biosphère
 
