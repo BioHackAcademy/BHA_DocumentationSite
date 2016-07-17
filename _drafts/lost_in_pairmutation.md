@@ -4,6 +4,12 @@ published: false
 # Titre
  _Texte intro_
  
+ Base-pair mutation : Un type de mutation impliquant le remplacement ou la substitution d'une base nucléotidique simple avec un autre ADN ou d'ARN dans la molécule
+ 
+La mutation en décalage de cadre (frameshift) terme indique l' ajout ou la suppression d'une paire de base .
+
+Un mutant de point est un individu qui est affecté par une mutation ponctuelle 
+ 
  Extrait inspirant depuis David Larlet et Stéphane Langlois:
  
  >Cette volonté de ne pas choisir la facilité pour évoluer.
