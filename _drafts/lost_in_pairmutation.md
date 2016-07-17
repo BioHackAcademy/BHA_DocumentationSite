@@ -20,10 +20,14 @@ Cette nécessité de s’adapter pour évoluer en milieu complexe, voire chaotiq
 >Pas forcément plus loin. L’exploration de cet ailleurs est notre quête, c’est ce qui nous insuffle l’énergie pour accepter de réduire notre efficacité en empruntant d’autres chemins. Ensemble. Ce nouveau territoire est une autre planète où les lois physiques ne sont plus les mêmes, on ne change pas de façon de travailler mais
 on change la nature même du travail en mutation ainsi que le rapport avec nos pairs
 (bam, vous venez de comprendre le titre). Ces nouvelles lois (numérique, confiance, communication) nous autorisent à imaginer de nouvelles façons de collaborer et de produire de la valeur.
+
+### Pour une nouvelle nature du travail en 3 dimensions
  
  * X raisons de se perdre
- * y pistes à explorer
- * Z 
+ * Y pistes à explorer
+ * Z expérimentations à mener 
+ 
+### 
 
 ## Ti titre
 
