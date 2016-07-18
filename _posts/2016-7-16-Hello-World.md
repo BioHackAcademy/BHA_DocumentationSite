@@ -12,7 +12,7 @@ Text: >-
 
 ...scroll
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/31/Truncatedicosahedron.gif)![](https://upload.wikimedia.org/wikipedia/commons/0/08/Net_of_dodecahedron.gif)![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rhombicdodecahedron.gif/220px-Rhombicdodecahedron.gif)
+![](http://media.rhizome.org/blog/9070/Marc-Lee-1.gif)
 
 ## Where's my mind? 
 
