@@ -2,6 +2,10 @@
 layout: post
 title: Hello World
 published: true
+Title: Hello World
+Text: >-
+  First post on my Github Jekyll page on the non-first day of the BioHacktivist
+  story
 ---
 
 # Oups, wait a minute please
