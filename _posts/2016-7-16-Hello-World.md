@@ -21,3 +21,7 @@ First post on my Github Jekyll page on the non-first day of a BioHacktivist stor
 ### Encore quelques jours avant la floraison des premiers articles
 
 ![](https://framapic.org/xjdgXOaouKRx/zxpMRY1Q5ulA)
+
+**Régale tes oreilles avant de faire bronzer ta pillule**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CW4PtgKDc1k" frameborder="0" allowfullscreen></iframe>
