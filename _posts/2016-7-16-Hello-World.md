@@ -3,9 +3,7 @@ layout: post
 title: Hello World
 published: true
 Title: Tada dadam tadam
-Text: >-
-  First post on my Github [Jekyll](https://jekyllrb.com/) page on the non-first
-  day of the BioHacktivist story
+Text: First post on my Github Jekyll page on the non-first day of the BioHacktivist story
 ---
 
 # Oups, wait a minute please
