@@ -27,6 +27,7 @@ First post on my Github Jekyll page on the non-first day of a BioHacktivist stor
 **Régale tes oreilles avant de faire bronzer ta pillule**
 
 "La pensée facile consiste à choisir son camps, accumuler les savoirs et ignorer l'autre côté.Il s'ensuit une boiterie logique qui donne une image hémiplégique"
+
 _**B.Cyrulnik**_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CW4PtgKDc1k" frameborder="0" allowfullscreen></iframe>
