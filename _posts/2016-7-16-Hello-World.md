@@ -2,13 +2,13 @@
 layout: post
 title: Hello World
 published: true
-Title: Hello World
+Title: Tada dadam tadam
 Text: >-
   First post on my Github Jekyll page on the non-first day of the BioHacktivist
   story
 ---
 
-# _Oups, wait a minute please_
+# Oups, wait a minute please
 
 ...scroll
 
@@ -18,6 +18,6 @@ Text: >-
 
 First post on my Github Jekyll page on the non-first day of a BioHacktivist story
 
-### _Encore quelques jours avant la floraison des premiers articles_
+### Encore quelques jours avant la floraison des premiers articles
 
 ![](https://framapic.org/xjdgXOaouKRx/zxpMRY1Q5ulA)
