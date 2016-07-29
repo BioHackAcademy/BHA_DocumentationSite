@@ -9,7 +9,6 @@ Text: >-
 ---
 
 # Oups, wait a minute please
-
 ...scroll
 
 ![](http://media.rhizome.org/blog/9070/Marc-Lee-1.gif)
