@@ -197,14 +197,14 @@ img {
   cursor: pointer;
   font-family: $bookman;
   font-weight: 300;
-  font-size: 40px;
+  font-size: 80px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 30px;
 
   @include mobile {
     margin: 3px 0;
