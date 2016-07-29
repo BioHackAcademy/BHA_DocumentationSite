@@ -16,7 +16,7 @@ Text: >-
 _Gif by Marc-Lee_
 
 ## Where's my mind? 
-First post on my Github Jekyll page on the non-first day of a BioHacktivist story
+First post on my Github [Jekyll](https://jekyllrb.com/) page on the non-first day of a BioHacktivist story
 
 ### Encore quelques jours avant la floraison des premiers articles
 
