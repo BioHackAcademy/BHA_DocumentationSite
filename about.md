@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ''
+title: 'Xavier Coadic'
 permalink: /about/
 published: true
 ---
